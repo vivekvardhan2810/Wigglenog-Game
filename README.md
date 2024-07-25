@@ -1,2 +1,10 @@
 # Wigglenog-Game
-The Wigglenog Game is a memory challenge where players memorize and replicate a sequence of button presses. Players win by correctly matching the displayed sequence; otherwise, they lose and can try again.
+
+This basic implementation of the Wigglenog game should give you a good starting point. The game displays a sequence of button presses for the player to memorize and then repeat. You can expand on this with more features and complexity as desired.
+
+The game checks whether the player wins or loses by comparing the sequence the player enters to the generated sequence. If the sequences match, the player wins; otherwise, they lose. The result is displayed in the resultContainer.
+
+This implementation now ensures that players are informed whether they win or lose by comparing their input sequence to the generated sequence. If they match, the player wins; otherwise, the player is prompted to try again.
+
+# Screenshot / Video
+
